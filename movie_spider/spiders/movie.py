@@ -2,7 +2,7 @@ import re
 
 import scrapy
 
-from first_spider.movie_spider.items import MovieSpiderItem
+from movie_spider.items import MovieSpiderItem
 
 
 class MovieSpider(scrapy.Spider):

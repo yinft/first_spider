@@ -1,4 +1,7 @@
-###python3.7
-###scrapy 
+### python3.7
+### scrapy 
 
 目前有个问题就是在pycharm的命令行里无法使用scrapy crawl命令，大致知道是路径问题，暂时在main函数里用绝对路径屏蔽这个问题。
+
+### 解决路径问题
+参考了 https://www.zhihu.com/question/52046953
